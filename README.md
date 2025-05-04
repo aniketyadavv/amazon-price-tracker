@@ -1,6 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Amazon Price Tracker
 
-## Getting Started
+A modern **Next.js 14** app using **App Router**, **Google Authentication**, **Tailwind CSS**, **shadcn/ui**, and **Bun** for blazing-fast performance.
+
+---
+
+## ✨ Features
+
+- 🔐 Google Sign-In using `next-auth`
+- 🎨 Styled with Tailwind CSS & [shadcn/ui](https://ui.shadcn.com/)
+- ⚡ Powered by [Bun](https://bun.sh/) (optional — works with npm/yarn too)
+- 📱 Responsive and mobile-friendly UI
+- 🪪 Hoverable avatar card with user info
+- 🔄 Server-side session handling (auth.js pattern)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** [Next.js 14 (App Router)](https://nextjs.org/)
+- **Auth:** [NextAuth.js](https://authjs.dev/) (Google Provider)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/)
+- **Package Manager:** Bun (or npm/yarn)
+- **Icons:** [Lucide](https://lucide.dev/)
+
+---
+
+## 🧪 Preview
+
+![App Screenshot](https://dummyimage.com/900x400/000/fff&text=Preview+Coming+Soon)
+
+> Replace with your own screenshot or demo GIF!
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
 
 First, run the development server:
 
