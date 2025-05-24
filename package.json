@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "overrides": {
+    "react-is": "^19.0.0-rc-69d4b800-20241021"
+  },
   "dependencies": {
     "@prisma/client": "^6.7.0",
     "@radix-ui/react-avatar": "^1.1.7",
@@ -26,6 +29,7 @@
     "prisma": "^6.7.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "recharts": "^2.15.3",
     "tailwind-merge": "^3.2.0"
   },
   "devDependencies": {
